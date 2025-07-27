@@ -21,7 +21,7 @@
         <h2>Live Application</h2>
         <p>
             You can access the live application here: 
-            <a href="https://smart-travel-planner-7apjk7tr63xwwcjd7e2v7z.streamlit.app/" target="_blank">
+            <a href="https://smart-travel-planner-ml.streamlit.app/" target="_blank">
                 Smart Travel Planner
             </a>
         </p>
